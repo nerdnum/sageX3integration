@@ -1,4 +1,4 @@
-package na.com.meatco.sageX3integration.sageX3integration.config;
+package na.com.meatco.sageX3integration.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;

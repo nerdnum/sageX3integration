@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice type="INV">
+  <customer>Woermann</customer>
+  <date>20181016</date>
+  <lines>
+    <line itmref="NQF001">
+      <amount>120</amount>
+      <itemDescription>Rump Steak</itemDescription>
+    </line>
+    <line itmref="NFF001">
+      <amount>105</amount>
+      <itemDescription>Fillet Steak</itemDescription>
+    </line>
+    <line itmref="NRF001">
+      <amount>100</amount>
+      <itemDescription>Viennas</itemDescription>
+    </line>
+  </lines>
+</invoice>

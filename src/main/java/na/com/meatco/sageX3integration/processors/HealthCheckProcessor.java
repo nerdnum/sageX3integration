@@ -1,4 +1,4 @@
-package na.com.meatco.sageX3integration.sageX3integration.processors;
+package na.com.meatco.sageX3integration.processors;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;

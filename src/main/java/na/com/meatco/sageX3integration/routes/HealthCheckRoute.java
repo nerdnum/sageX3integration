@@ -1,13 +1,11 @@
-package na.com.meatco.sageX3integration.sageX3integration.routes;
+package na.com.meatco.sageX3integration.routes;
 
-import na.com.meatco.sageX3integration.sageX3integration.processors.HealthCheckProcessor;
-import na.com.meatco.sageX3integration.sageX3integration.processors.MailProcessor;
+import na.com.meatco.sageX3integration.processors.HealthCheckProcessor;
+import na.com.meatco.sageX3integration.processors.MailProcessor;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 
 
-@Component
 public class HealthCheckRoute extends RouteBuilder {
 
     @Autowired

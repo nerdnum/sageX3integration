@@ -1,4 +1,4 @@
-package na.com.meatco.sageX3integration.sageX3integration;
+package na.com.meatco.sageX3integration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
